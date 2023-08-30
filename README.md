@@ -1,6 +1,6 @@
 # ts-types-plugin-example
 
-***Hey, creator here.***
+# ***Hey, creator here.***
 
 I recommend **not** using this plugin for the time being as it doesn't really do anything remarkable.
 
