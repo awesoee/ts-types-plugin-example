@@ -1,0 +1,1 @@
+# ts-types-plugin-example
